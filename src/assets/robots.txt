@@ -1,0 +1,14 @@
+# Lucentive.info Robots.txt
+# Allow all search engines to crawl the entire site
+
+User-agent: *
+Allow: /
+
+# Disallow admin or sensitive folders (if any)
+Disallow: /assets/
+Disallow: /scripts/
+Disallow: /tmp/
+Disallow: /private/
+
+# Point to the sitemap location
+Sitemap: https://lucentive.info/sitemap.xml
