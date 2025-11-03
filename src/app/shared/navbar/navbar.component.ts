@@ -10,9 +10,9 @@ import { NgIf, NgClass } from '@angular/common';
   <header class="sticky top-0 z-50 bg-white/85 dark:bg-slate-950/85 backdrop-blur border-b border-slate-200/70 dark:border-slate-800">
     <div class="container flex h-16 items-center justify-between">
       <!-- Brand -->
-      <a routerLink="/" class="flex items-center gap-2" aria-label="Lucentive home">
-        <img class="h-10 w-10" src="/assets/logo.png" alt="Lucentive logo" />
-        <span class="text-lg font-semibold tracking-tight">Lucentive</span>
+      <a routerLink="/" class="flex items-center gap-2" aria-label="Mustafa Consulting Group home">
+        <img class="h-10 w-10" src="/assets/logo.png" alt="Mustafa Consulting Group logo" />
+        <span class="text-lg font-semibold tracking-tight">Mustafa Consulting Group</span>
       </a>
 
       <!-- Desktop nav -->

@@ -11,8 +11,8 @@ import { RouterLink } from '@angular/router';
       <!-- Brand -->
       <div>
         <div class="flex items-center gap-2 mb-3">
-        <img class="h-8 w-8" src="/assets/logo.png" alt="Lucentive logo" />
-          <span class="text-lg font-semibold">Lucentive</span>
+        <img class="h-8 w-8" src="/assets/logo.png" alt="Mustafa Consulting Group logo" />
+          <span class="text-lg font-semibold">Mustafa Consulting Group</span>
         </div>
         <p class="text-sm text-slate-600 dark:text-slate-400">
           Intelligent systems that make growth measurable — more inquiries, less busywork, clearer decisions.
@@ -57,8 +57,8 @@ import { RouterLink } from '@angular/router';
     </div>
 
     <div class="border-t border-slate-200 dark:border-slate-800 py-6">
-      <div class="container text-sm text-slate-500 dark:text-slate-400 flex flex-col sm:flex-row gap-2 sm:items-center sm:justify-between">
-        <div>&copy; {{year}} Lucentive. All rights reserved.</div>
+  <div class="container text-sm text-slate-500 dark:text-slate-400 flex flex-col sm:flex-row gap-2 sm:items-center sm:justify-between">
+  <div>&copy; {{year}} Mustafa Consulting Group. All rights reserved.</div>
         <!-- <div class="flex gap-4">
           <a routerLink="/privacy" class="hover:text-brand-600">Privacy</a>
           <a routerLink="/terms" class="hover:text-brand-600">Terms</a>

@@ -9,7 +9,7 @@ import { RouterLink } from '@angular/router';
   <section class="section">
     <div class="container max-w-6xl grid lg:grid-cols-2 gap-10 items-center">
       <div>
-        <span class="inline-block rounded-full bg-brand-100 text-brand-700 px-3 py-1 text-xs font-medium">Lucentive</span>
+  <span class="inline-block rounded-full bg-brand-100 text-brand-700 px-3 py-1 text-xs font-medium">Mustafa Consulting Group</span>
         <h1 class="mt-4 text-5xl font-bold leading-tight text-slate-900 dark:text-white">
           Clarity that Compounds
         </h1>
@@ -47,7 +47,7 @@ import { RouterLink } from '@angular/router';
   <!-- VALUE PROPS -->
   <section class="section bg-slate-50 dark:bg-slate-900/40">
     <div class="container max-w-6xl">
-      <h2 class="text-2xl font-semibold text-center">Why clients choose Lucentive</h2>
+  <h2 class="text-2xl font-semibold text-center">Why clients choose Mustafa Consulting Group</h2>
       <div class="mt-8 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
         <article class="card p-6">
           <h3 class="font-semibold">Simplify Complexity</h3>

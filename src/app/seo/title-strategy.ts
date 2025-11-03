@@ -10,7 +10,7 @@ export class AppTitleStrategy extends TitleStrategy {
     const deepest = this.getDeepestRoute(snapshot.root);
     const data = deepest?.data || {};
     const t = this.buildTitle(snapshot as any);
-    this.title.setTitle(t ?? 'Lucentive');
+  this.title.setTitle(t ?? 'Mustafa Consulting Group');
 
     if (data['description']) {
       this.meta.updateTag({ name: 'description', content: data['description'] });

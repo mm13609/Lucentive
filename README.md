@@ -1,4 +1,4 @@
-# Lucentive — Growth & ROI Website (Angular 18 + Tailwind)
+# Mustafa Consulting Group — Growth & ROI Website (Angular 18 + Tailwind)
 
 Outcome-driven marketing site focusing on inquiries, time saved, and revenue — no tech or regional jargon.
 

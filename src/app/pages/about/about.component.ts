@@ -50,7 +50,7 @@ type Step = { year: string; title: string; text: string };
           <p class="mt-3 text-slate-600 dark:text-slate-400">
             After a decade building software inside organizations, we saw the same pattern:
             businesses weren’t lacking ideas—they lacked simple, practical systems that turn
-            interest into booked work and free teams from repetitive tasks. We started Lucentive
+            interest into booked work and free teams from repetitive tasks. We started Mustafa Consulting Group
             to deliver exactly that: focused improvements that compound into growth.
           </p>
           <div class="mt-6 card p-6">
@@ -153,7 +153,7 @@ export class AboutComponent {
   ];
 
   timeline: Step[] = [
-    { year: 'Foundation', title: 'Lucentive launches', text: 'After years inside product teams, we start a consultancy focused on measurable business outcomes.' },
+  { year: 'Foundation', title: 'Mustafa Consulting Group launches', text: 'After years inside product teams, we start a consultancy focused on measurable business outcomes.' },
     { year: 'First wins', title: 'Lead flow + follow-up pilots', text: 'Clients see faster responses, fewer missed leads, and clearer owner visibility.' },
     { year: 'Scale up', title: 'From pilots to ongoing growth', text: 'Monthly iteration keeps compounding what works—more inquiries, less busywork.' }
   ];
