@@ -46,12 +46,9 @@ import { RouterLink } from '@angular/router';
         <p class="text-sm">
           <a href="mailto:mustafamohammad92@gmail.com" class="hover:text-brand-600">mustafamohammad92&#64;gmail.com</a>
         </p>
-        <p class="text-sm mt-2">
-             Phone: <a href="tel:+18177390951" class="hover:text-brand-600">+1 (817) 739-0951</a>
-        </p>
-                <p class="text-sm mt-2">
-             Address: <a href="https://www.google.com/maps/place/3909+Bentley+Dr,+Bedford,+TX+76021" target="_blank" class="hover:text-brand-600">3909 Bentley Dr, Bedford, TX 76021</a>
-        </p>
+     <p class="text-sm mt-2">
+       Phone: <a href="tel:+18177390951" class="hover:text-brand-600">+1 (817) 739-0951</a>
+     </p>
 
       </div>
     </div>
