@@ -11,4 +11,4 @@ Disallow: /tmp/
 Disallow: /private/
 
 # Point to the sitemap location
-Sitemap: https://lucentive.info/sitemap.xml
+Sitemap: https://mustafaconsultinggroup.services/sitemap.xml
